@@ -1026,7 +1026,7 @@ const allData = [
   [`Keep tool selected after use`, `使用后保持工具选择`],
   [`Kerning pairs`, `字偶距组合`],
   [`Kerning`, `字偶距`],
-  [`Key/gamepad`, `键盘/游戏手柄`],
+  [`Key/Gamepad`, `键盘/游戏手柄`],
   [`Key`, `按键`],
   [`Keyboard shortcuts`, `键盘快捷键`],
   [`Keyboard zooms into selection`, `键盘缩放所选项`],
