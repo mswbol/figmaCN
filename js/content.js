@@ -427,6 +427,7 @@ const allData = [
   [`Choose a resource to publish to Community. Prototypes can only be published from the file editor.`, `选择要发布到社区的资源。原型只能从文件编辑器中发布。`],
   [`Choose a slack channel to notify whenever someone comments on a file in the ‘`, `选择一个 Slack 频道，每当有人对“`],
   [`Choose Education`, `选择教育版`],
+  [`Choose instance...`, `选择实例…`],
   [`Choose Image...`, `选择图片…`],
   [`Choose Image…`, `选择图片…`],
   [`Choose Organization`, `选择组织版`],
