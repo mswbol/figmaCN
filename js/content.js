@@ -548,6 +548,7 @@ const allData = [
   [`Create new text style`, `创建新的文本样式`],
   [`Create profile`, `创建主页`],
   [`Create project`, `创建项目`],
+  [`Create property`, `创建属性`],
   [`Create scroll`, `创建`],
   [`Create style`, `新建样式`],
   [`Create team`, `创建团队`],
@@ -2023,6 +2024,8 @@ const allData = [
   [`User Journey Map Template`, `用户旅程地图模板`],
   [`UX Design`, `UX 设计`],
   [`Variants`, `变体`],
+    [`Value`, `值`],
+  
   [`Vector networks`, `矢量网络`],
   [`Vector`, `矢量`],
   [`Version `, `版本 `],
