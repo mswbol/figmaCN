@@ -724,6 +724,7 @@ const allData = [
   [`Edit...`, `编辑…`],
   [`Edit`, `编辑`],
   [`Edited `, `编辑于 `],
+  [`Edit variant property`, `编辑变体属性`],
   [`Editor Seats`, `编辑者席位`],
   [`editor`, `个编辑者`],
   [`Editors on your team (`, `团队中的编辑者 (`],
@@ -2028,8 +2029,8 @@ const allData = [
   [`User Journey Map Template`, `用户旅程地图模板`],
   [`UX Design`, `UX 设计`],
   [`Variants`, `变体`],
-    [`Value`, `值`],
-  
+  [`Value`, `值`],
+  [`Values`, `值`],
   [`Vector networks`, `矢量网络`],
   [`Vector`, `矢量`],
   [`Version `, `版本 `],
