@@ -987,6 +987,7 @@ const allData = [
   [`Insert component`, `插入组件`],
   [`Inside`, `内部`],
   [`inspect`, `检查`],
+  [`Inspect`, `检查`],
   [`Install Font Helper`, `安装字体帮助程序`],
   [`Install`, `安装`],
   [`Installed`, `已安装`],
