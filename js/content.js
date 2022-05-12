@@ -549,6 +549,7 @@ const allData = [
   [`Create profile`, `创建主页`],
   [`Create project`, `创建项目`],
   [`Create property`, `创建属性`],
+[`Create component property`, `创建组件属性`],
   [`Create scroll`, `创建`],
   [`Create style`, `新建样式`],
   [`Create team`, `创建团队`],
