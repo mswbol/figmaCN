@@ -568,6 +568,7 @@ const allData = [
   [`Current file`, `当前文件`],
   [`Current name`, `当前名称`],
   [`Current version`, `当前版本`],
+    [`Current variant`, `当前变体`],
   [`Cursor chat`, `光标聊天框`],
   [`Cursor`, `光标`],
   [`Curve`, `曲线`],
